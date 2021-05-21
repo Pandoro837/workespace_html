@@ -52,9 +52,9 @@ public class Ex01
 
 		int var01=10, var02=20, var03=30; 
 		
-		int number = 009;
+//		int number = 009;
 //		정수 값에 0으로 시작하는 수를 넣으면 인식하지 못한다
-		System.out.println(number);		
+//		System.out.println(number);		
 		System.out.println(var01);	
 		System.out.println(var02);	
 		System.out.println(var03);	
